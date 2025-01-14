@@ -68,4 +68,4 @@ jefferson-rocha-dee-jay-3ab263303/">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Jefferson](https://github.com/Jeffersondeejay)
+⌨️ criado 💜 por [Jefferson](https://github.com/Jeffersondeejay)
