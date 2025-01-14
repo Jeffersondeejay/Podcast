@@ -3,7 +3,8 @@ Criando um Podcast com IAs Generativas
 
 >Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
-<a href="https://github.com/Jeffersondeejay/Podcast/raw/refs/heads/main/Audio%20DIO.MP3 "> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/Jeffersondeejay/Podcast/raw/refs/heads/main/Audio%20DIO.MP3" title="View PDF now"> 📕Clique aqui para ouvir</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
