@@ -3,7 +3,7 @@ Criando um Podcast com IAs Generativas
 
 >Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
-<a href="http//:github.com/Jeffersondeejay/Podcast/raw/refs/heads/main/Audio%20DIO.MP3"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/silvialibras/Podcast---Neuromago/raw/refs/heads/main/Podcast%20-%20Neuromago.MP3" title="View PDF now"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
