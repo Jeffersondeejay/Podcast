@@ -9,19 +9,11 @@ Criando um Podcast com IAs Generativas
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Gemini](https://gemini.google.com/app?hl=pt-BR)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoin)
+- [Leonardo AI](https://leonardoaiart.com/)
+- [Notion](https://www.notion.
+- [Eleven](https://elevenlabs.io/)
+- [CapCut](https://www.capcut.com/)
 
-
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Gemini
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨💻 Expert
 
