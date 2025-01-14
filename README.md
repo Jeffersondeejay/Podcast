@@ -3,7 +3,7 @@ Criando um Podcast com IAs Generativas
 
 >Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
-<a href="https://github.com/Jeffersondeejay/prompts-recipe-to-create-a-ebook/blob/main/Desafio%20-%20Ebook%20Do%20Zero%20ao%20Expert%20PDF.pdf" title="View PDF now"> 📕Clique aqui para ouvir</a>
+<a href="ID3"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
